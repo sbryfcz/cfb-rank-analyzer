@@ -1,0 +1,25 @@
+{
+  "name": "cfb-rank-analyzer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbryfcz/cfb-rank-analyzer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbryfcz/cfb-rank-analyzer/issues"
+  },
+  "homepage": "https://github.com/sbryfcz/cfb-rank-analyzer#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.10",
+    "progress": "^2.0.0",
+    "puppeteer": "^1.4.0"
+  }
+}
